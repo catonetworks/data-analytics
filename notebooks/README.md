@@ -1,5 +1,14 @@
 # Jupyter Notebooks
-Sample code and Jupyter notebooks for analysing Cato data.
+Sample code and Jupyter notebooks for analysing Cato data. In order to run the examples you will need:
+
+- A local copy of the repo.
+- The ability to run Jupyter notebooks
+  - You can install Jupyter from pip, then execute 
+  ```
+  jupyter notebook
+  ```
+  in a terminal window.
+  - It may be easier to use a pre-packaged distribution such as [Anaconda](https://www.anaconda.com/download) but this will install a lot of additional packages and may make unexpected changes to your Python environment.
 
 ## Contents
 
