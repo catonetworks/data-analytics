@@ -17,6 +17,10 @@ Sample code and Jupyter notebooks for analysing Cato data. In order to run the e
 * How to make a Cato GraphQL API call.
 * The simplest call: reading back the account ID from accountSnapshot().
 
+[accountSnapshot - Overview](https://github.com/catonetworks/data-analytics/blob/main/notebooks/accountSnapshot%20-%20Overview.ipynb)
+* Introduction to the accountSnapshot API query.
+* How to filter by site and user.
+
 [Entities, IDs and entityLookup](https://github.com/catonetworks/data-analytics/blob/main/notebooks/Entities%2C%20IDs%20and%20entityLookup.ipynb)
 * What are entities.
 * The entityLookup query.
